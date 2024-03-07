@@ -18,12 +18,12 @@ let package = Package(
     dependencies: [
     ],
     targets: [
-        .binaryTarget(name: "DynamsoftCore", url: "https://download2.dynamsoft.com/xcframeworks/dynamsoft-core-ios-3.0.20-xcframework.zip", checksum: "2a4fd81be2b6471c6b97b67f86827d22679ecdc06cffbf3a34f5a7ed1dbbf4c6"),
-        .binaryTarget(name: "DynamsoftLicense", url: "https://download2.dynamsoft.com/xcframeworks/dynamsoft-license-ios-3.0.30-xcframework.zip", checksum: "51690ac1b79420fb1b0ea330c688beeeb0ca488091b530398251fd3c87b988c7"),
-        .binaryTarget(name: "DynamsoftCameraEnhancer", url: "https://download2.dynamsoft.com/xcframeworks/dynamsoft-cameraEnhancer-ios-4.0.2-xcframework.zip", checksum: "c660c1c190acb1ab68f8f8836bdcbd5f80f4199258801efe16d1d672bd2fa7cf"),
-        .binaryTarget(name: "DynamsoftImageProcessing", url: "https://download2.dynamsoft.com/xcframeworks/dynamsoft-imageprocessing-ios-2.0.21-xcframework.zip", checksum: "33e79dca7f076e4509c2709b5fa2f1d569a20ce6d373d83dad237ec2afcc1e6a"),
-        .binaryTarget(name: "DynamsoftDocumentNormalizer", url: "https://download2.dynamsoft.com/xcframeworks/dynamsoft-documentnormalizer-ios-2.0.20-xcframework.zip", checksum: "91c35548cc3bced80da2f89469cd6278cb412f01f49d3e1df36d372c3b208958"),
-        .binaryTarget(name: "DynamsoftUtility", url: "https://download2.dynamsoft.com/xcframeworks/dynamsoft-utility-ios-1.0.21-xcframework.zip", checksum: "60e4221d43a8cac3a38f053e2f1c8a292755f128867fe5229918f4f7934241a8"),
-        .binaryTarget(name: "DynamsoftCaptureVisionRouter", url: "https://download2.dynamsoft.com/xcframeworks/dynamsoft-capturevisionrouter-ios-2.0.21-xcframework.zip", checksum: "a6ec1959d5893aefebfa38f4eb30f8374585dd734af7013091ec5a06df02eed9"),
+        .binaryTarget(name: "DynamsoftCore", url: "https://download2.dynamsoft.com/xcframeworks/dynamsoft-core-ios-3.2.10-xcframework.zip", checksum: "11e7508cda98c3fa5a052f1d603e3f624d44d530c44e1595ad4e55bed3def02f"),
+        .binaryTarget(name: "DynamsoftLicense", url: "https://download2.dynamsoft.com/xcframeworks/dynamsoft-license-ios-3.2.10-xcframework.zip", checksum: "37cd6139983302317c247043b944ade5eed32f76f249a0537ce8a49c70a03488"),
+        .binaryTarget(name: "DynamsoftCameraEnhancer", url: "https://download2.dynamsoft.com/xcframeworks/dynamsoft-cameraEnhancer-ios-4.2.0-xcframework.zip", checksum: "8d5fc5699b80c9e3684641808f380c71219635b97514384f808011e86738b700"),
+        .binaryTarget(name: "DynamsoftImageProcessing", url: "https://download2.dynamsoft.com/xcframeworks/dynamsoft-imageprocessing-ios-2.2.10-xcframework.zip", checksum: "cee0fdd66721054bb5b2109058de8bde3e343e585dabfd137c20597cb1abf77b"),
+        .binaryTarget(name: "DynamsoftDocumentNormalizer", url: "https://download2.dynamsoft.com/xcframeworks/dynamsoft-documentnormalizer-ios-2.2.10-xcframework.zip", checksum: "50ddd40921a902463b924e0d83eb87bcdd9318a4a335f6f73391d3ea437ba2e0"),
+        .binaryTarget(name: "DynamsoftUtility", url: "https://download2.dynamsoft.com/xcframeworks/dynamsoft-utility-ios-1.2.10-xcframework.zip", checksum: "e2a1c1dd739e69347741a43691fef599f3b6bf1fdbbc703dd62d51706bfac6f7"),
+        .binaryTarget(name: "DynamsoftCaptureVisionRouter", url: "https://download2.dynamsoft.com/xcframeworks/dynamsoft-capturevisionrouter-ios-2.2.10-xcframework.zip", checksum: "fa1cae95147d6ee4f2279bf0e83c7ab1b398456cd81a19c7de4583fcb20fd120"),
     ]
 )
