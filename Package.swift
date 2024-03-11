@@ -24,6 +24,6 @@ let package = Package(
         .binaryTarget(name: "DynamsoftImageProcessing", url: "https://download2.dynamsoft.com/xcframeworks/dynamsoft-imageprocessing-ios-2.2.10-xcframework.zip", checksum: "cee0fdd66721054bb5b2109058de8bde3e343e585dabfd137c20597cb1abf77b"),
         .binaryTarget(name: "DynamsoftDocumentNormalizer", url: "https://download2.dynamsoft.com/xcframeworks/dynamsoft-documentnormalizer-ios-2.2.10-xcframework.zip", checksum: "50ddd40921a902463b924e0d83eb87bcdd9318a4a335f6f73391d3ea437ba2e0"),
         .binaryTarget(name: "DynamsoftUtility", url: "https://download2.dynamsoft.com/xcframeworks/dynamsoft-utility-ios-1.2.10-xcframework.zip", checksum: "e2a1c1dd739e69347741a43691fef599f3b6bf1fdbbc703dd62d51706bfac6f7"),
-        .binaryTarget(name: "DynamsoftCaptureVisionRouter", url: "https://download2.dynamsoft.com/xcframeworks/dynamsoft-capturevisionrouter-ios-2.2.10-xcframework.zip", checksum: "fa1cae95147d6ee4f2279bf0e83c7ab1b398456cd81a19c7de4583fcb20fd120"),
+        .binaryTarget(name: "DynamsoftCaptureVisionRouter", url: "https://download2.dynamsoft.com/xcframeworks/dynamsoft-capturevisionrouter-ios-2.2.11-xcframework.zip", checksum: "dd957acf51c1509c7267efa3f53ea45d0ac75596408a132d8dd7baa9551b0e0c"),
     ]
 )
